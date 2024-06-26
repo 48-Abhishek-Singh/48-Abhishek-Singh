@@ -1,4 +1,4 @@
-
+<img src="https://github.com/48-Abhishek-Singh/48-Abhishek-Singh/blob/main/Abhishek%20Singh.png">
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
